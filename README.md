@@ -28,3 +28,6 @@ Total Revenue: Total income generated from pizza sales during the selected perio
 Total Orders: Shows the total number of orders placed by customers.
 
 Average Order Value(AOV): The average amount spent per order and is calculated as Total Revenue divided by Total Orders.
+
+## Dashboard Interaction 
+<a href="">View Dashboard</a>
