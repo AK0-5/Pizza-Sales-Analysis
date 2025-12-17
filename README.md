@@ -5,7 +5,7 @@ This dashboard provides an overview of pizza sales performance, including total 
 ## Dataset used
 <a href="https://github.com/AK0-5/Pizza-Sales-Analysis/blob/main/pizza_sales.csv">Pizza Sales Analysis</a>
 
-Key fields:
+Key fields
 
 •	order_id → Unique identifier for each order
 
@@ -20,3 +20,11 @@ Key fields:
 •	date, time → Order timestamp for time-based analysis
 
 •	pizza_category, pizza_size → Attributes for pizza classification
+
+## Key Performance Indicators (KPIs)
+
+Total Revenue: Total income generated from pizza sales during the selected period.
+
+Total Orders: Shows the total number of orders placed by customers.
+
+Average Order Value(AOV): The average amount spent per order and is calculated as Total Revenue divided by Total Orders.
