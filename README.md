@@ -23,3 +23,11 @@ Key fields
 
 ## Dashboard
 <img width="1193" height="670" alt="Screenshot 2025-12-17 120542" src="https://github.com/user-attachments/assets/5ca1030f-dd7e-4c8a-b766-12c7ab347962" />
+
+## Project Insights
+
+- Most orders are placed during peak hours, indicating higher customer activity at specific times of the day.
+- A small number of pizzas contribute to a large share of total revenue, highlighting best-selling products.
+- Classic and Supreme categories generate higher sales compared to other categories.
+- Large and Medium size pizzas are more preferred by customers than smaller sizes.
+- Monthly order trends show consistent demand with some seasonal variation.
