@@ -7,9 +7,8 @@ This dashboard provides an overview of pizza sales performance, including total 
 
 Key fields
 
-•	order_id → Unique identifier for each order
-
-•	pizza_id → Unique identifier for each pizza
+- order_id → Unique identifier for each order
+- pizza_id → Unique identifier for each pizza
 
 •	pizza_name → Name of the pizza sold
 
