@@ -30,4 +30,4 @@ Total Orders: Shows the total number of orders placed by customers.
 Average Order Value(AOV): The average amount spent per order and is calculated as Total Revenue divided by Total Orders.
 
 ## Dashboard Interaction 
-<a href="">View Dashboard</a>
+<a href="https://github.com/AK0-5/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dashboard%20SS.png">View Dashboard</a>
